@@ -1,0 +1,6 @@
+numpy
+openai
+scipy
+tiktoken
+tqdm
+scikit-learn
